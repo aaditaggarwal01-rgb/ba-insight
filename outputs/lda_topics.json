@@ -1,0 +1,122 @@
+[
+  {
+    "topic": 0,
+    "top_words": [
+      "seat",
+      "economy",
+      "flight",
+      "uncomfortable",
+      "food",
+      "poor",
+      "cabin",
+      "row",
+      "premium",
+      "choice"
+    ]
+  },
+  {
+    "topic": 1,
+    "top_words": [
+      "flight",
+      "hour",
+      "london",
+      "airport",
+      "delayed",
+      "luggage",
+      "day",
+      "bag",
+      "time",
+      "told"
+    ]
+  },
+  {
+    "topic": 2,
+    "top_words": [
+      "british",
+      "airway",
+      "british airway",
+      "airline",
+      "customer",
+      "service",
+      "flight",
+      "customer service",
+      "london",
+      "fly"
+    ]
+  },
+  {
+    "topic": 3,
+    "top_words": [
+      "crew",
+      "service",
+      "club",
+      "flight",
+      "cabin",
+      "food",
+      "meal",
+      "good",
+      "passenger",
+      "seat"
+    ]
+  },
+  {
+    "topic": 4,
+    "top_words": [
+      "class",
+      "business",
+      "business class",
+      "seat",
+      "flight",
+      "worst",
+      "long",
+      "haul",
+      "london",
+      "economy"
+    ]
+  },
+  {
+    "topic": 5,
+    "top_words": [
+      "flight",
+      "food",
+      "airline",
+      "service",
+      "staff",
+      "time",
+      "cost",
+      "budget",
+      "route",
+      "low"
+    ]
+  },
+  {
+    "topic": 6,
+    "top_words": [
+      "flight",
+      "cancelled",
+      "refund",
+      "customer",
+      "service",
+      "booked",
+      "ticket",
+      "day",
+      "customer service",
+      "email"
+    ]
+  },
+  {
+    "topic": 7,
+    "top_words": [
+      "check",
+      "boarding",
+      "staff",
+      "desk",
+      "queue",
+      "heathrow",
+      "bag",
+      "online",
+      "flight",
+      "passenger"
+    ]
+  }
+]

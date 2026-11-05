@@ -1,0 +1,18 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.8269,
+    "macro_f1": 0.5545
+  },
+  "Linear SVC": {
+    "accuracy": 0.8192,
+    "macro_f1": 0.5493
+  },
+  "Random Forest": {
+    "accuracy": 0.8077,
+    "macro_f1": 0.5414
+  },
+  "best_model": "Logistic Regression",
+  "cv_macro_f1_mean": 0.5377,
+  "cv_macro_f1_std": 0.0175,
+  "note": "XGBoost was attempted and excluded: its sklearn API requires integer-encoded labels and rejects the string class labels used here. Three models were compared."
+}
